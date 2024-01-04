@@ -7,7 +7,7 @@
 # <div align="center">I'm Balaji S , Full-stack  developer 👨‍💻 </div>  
   
   
--  I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Java. I'm a open-source development enthusiast.
+-  I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Express. I'm a open-source development enthusiast.
 
  # Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/UPcomingVIP?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ajit_ajee_?igshid=ZDc4ODBmNjlmNQ==) 
