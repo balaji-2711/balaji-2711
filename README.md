@@ -6,7 +6,6 @@
 
 # <div align="center">I'm Balaji S , Full-stack  developer 👨‍💻 </div>  
   
--  I’m currently working in DXC Technology Pvt Ltd.  
   
 -  I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Java. I'm a open-source development enthusiast.
 
