@@ -4,7 +4,7 @@
 
 # About me:
 
-# <div align="center">I'm Ajeeth Kumar G, Full-stack  developer 👨‍💻 </div>  
+# <div align="center">I'm Balaji S , Full-stack  developer 👨‍💻 </div>  
   
 -  I’m currently working in DXC Technology Pvt Ltd.  
   
